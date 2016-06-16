@@ -18,4 +18,4 @@ function checkPalindrome(str) {
     return str == str.split('').reverse().join('');
 }
 
-largestPalindrome();
+largestPalindrome(); // 906609
